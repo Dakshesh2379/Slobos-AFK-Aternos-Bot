@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "NetherBoundRevival.aternos.me",
-    "port": 54331,
+    "ip": "Test-Eg06.aternos.me",
+    "port": 56850,
     "version": "",
     "try-creative": false
   },
